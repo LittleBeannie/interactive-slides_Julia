@@ -1,7 +1,14 @@
+name: rise-environment
+channels:
+  - damianavila82
+  - conda-forge
 dependencies:
-  - matplotlib
+  - python
   - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
   - pip
   - pip:
       - julia
-  
