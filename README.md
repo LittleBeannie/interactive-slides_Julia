@@ -11,3 +11,5 @@ https://hub.mybinder.org/user/littlebeannie-test-uz1dz91v/tree
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LittleBeannie/test/master?filepath=test%20slide.ipynb)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LittleBeannie/test/master)
