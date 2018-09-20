@@ -1,6 +1,6 @@
 # test
 
-This is a repo for test of modern 6783.
+This repo is a test for combining `R` and `RISE` together to realize interactive slides with R kernel. 
 
 ## content
 (1) live slides
